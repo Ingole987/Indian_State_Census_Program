@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CensusAnalyzerTest",
+    "\\CensusAnalyzerTest\\bin",
+    "\\CensusAnalyzerTest\\bin\\Debug",
+    "\\CensusAnalyzerTest\\obj",
+    "\\IndianStateCensusAnalyzer",
+    "\\IndianStateCensusAnalyzer\\bin",
+    "\\IndianStateCensusAnalyzer\\DTO",
+    "\\IndianStateCensusAnalyzer\\obj",
+    "\\IndianStateCensusAnalyzer\\POCO"
+  ],
+  "SelectedNode": "\\IndianStateCensusAnalyzer\\IndianCensusAdapter.cs",
+  "PreviewInSolutionExplorer": false
+}
